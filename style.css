@@ -1,8 +1,25 @@
-h3{
+body{
+    font-family: 'Lato', sans-serif;
+    width: 60%;
+    margin: 0 auto;
+}
+h3, h4{
     margin: 0;
 }
 .title{
-    margin: 5px 0;
+    margin: 10px 0;
     background-color: #c1c1c1;
     font-size: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
 }
